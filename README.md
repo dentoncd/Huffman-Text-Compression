@@ -2,7 +2,7 @@
 
 Huffman Text Compression is a C++ program that compresses and decompresses text using **Huffman Coding**. The project demonstrates how several core data structures can work together to build a complete compression algorithm, including a hash table, priority queue, and binary tree.
 
-The project was created as a Data Structures final project and is designed to demonstrate the full compression process from character-frequency analysis through encoding, decoding, and compression-ratio calculation.
+The project is designed to demonstrate the full compression process from character-frequency analysis through encoding, decoding, and compression-ratio calculation.
 
 ## Features
 
