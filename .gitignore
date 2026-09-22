@@ -1,0 +1,14 @@
+﻿.idea/
+*.iml
+
+build/
+cmake-build-*/
+out/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.env
+.env.*
